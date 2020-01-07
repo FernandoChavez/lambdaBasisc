@@ -1,4 +1,4 @@
-package java8lambdabasics;
+package io.javabrain;
 
 public class HelloWorldGreeting implements Greeting {
 
